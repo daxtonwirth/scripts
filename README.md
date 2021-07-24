@@ -1,2 +1,2 @@
 # Hardening Scripts
-Scripts for use in future competitions
+Scripts for use in future events
